@@ -1,5 +1,8 @@
 ### Полезные ссылки
 
+- Хватит страдать смотрим как быстро подключить студио код к github
+    > https://disk.yandex.ru/i/QbKhvBzWG4Qfxw
+
 - Для создания .gitignor на C#
     > https://github.com/iksergey/SoftwareDesignPattern/blob/master/.gitignore
 

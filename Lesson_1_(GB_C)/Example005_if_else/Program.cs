@@ -5,6 +5,7 @@ if (username.ToLower() == "маша") //.ToLower преводит почти в�
 {
     Console.WriteLine("Ура, это же Маша!");
 }
+
 else
 {
     Console.Write("Привет, ");

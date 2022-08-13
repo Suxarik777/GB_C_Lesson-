@@ -1,5 +1,8 @@
 ### Полезные ссылки
 
+- полезные команды для VSCode
+    > https://techrocks.ru/2019/11/08/20-vs-code-shortcuts/
+
 - Хватит страдать смотрим как быстро подключить студио код к github
     > https://disk.yandex.ru/i/QbKhvBzWG4Qfxw
 
@@ -14,3 +17,6 @@
 
 - Про массивы
     > https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/arrays/single-dimensional-arrays
+---
+- Больше задач для тренировки ловим тут
+    > https://www.codewars.com/
